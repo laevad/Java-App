@@ -1,0 +1,5 @@
+rhe,100 
+jul,50 
+yu,100 
+janina,10 
+USER,30 
